@@ -16,6 +16,9 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+        <activity android:name=".TimeNV"
+            android:label="@string/second_title">
+        </activity>
     </application>
 
 </manifest>

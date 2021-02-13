@@ -1,4 +1,5 @@
 <resources>
     <string name="app_name">PMS_lab1.2</string>
+    <string name="second_title">Vostrikov Nikita</string>
     <string name="but_text">Run lab</string>
 </resources>
